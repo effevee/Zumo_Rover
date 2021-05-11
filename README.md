@@ -5,5 +5,5 @@
 
 De documentatie beschrijft :
 1. de gebruikte hardware en het schema met de verbindingen tussen de verschillende onderdelen
-2. de Android app gemaakt met MIT App Inventor Code voor de besturing via Bluetooth
+2. de Android app gemaakt met MIT App Inventor voor de besturing via Bluetooth
 3. de Arduino code die de Bluetooth commando's ontvangt en uitvoert
